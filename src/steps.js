@@ -21,5 +21,10 @@
  * 11. import googleAuthProvider and create a new provider
  * 12. use singInWithPopUp and pass auth provider
  * 13. activate sing-in method (google, facebook, twitter, github)
+ * 14. vite : change 127.0.0.1 to localhost
+ * ----------------------------------
+ *          MORE AUTH PROVIDER
+ * ----------------------------------
+ * 1. activate auth provider (create app, provider redirect url, client id, client secret)
  * 
  *  **/
